@@ -1,0 +1,351 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PC_SB_Module1
+</name>
+</assembly>
+<members>
+<member name="T:PC_SB_Module1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PC_SB_Module1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PC_SB_Module1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.CleaningRoomDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.CleaningRoomDetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.CleaningRoomItemDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.CustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.EmployeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ItemDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ItemStatusDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.JobDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ReservationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ReservationCheckOutDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ReservationRequestItemDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ReservationRoomDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.RoomDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.RoomTypeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.CleaningRoomRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.CleaningRoomDetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.CleaningRoomItemRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.CustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.EmployeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ItemRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ItemStatusRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.JobRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ReservationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ReservationCheckOutRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ReservationRequestItemRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ReservationRoomRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.RoomRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.RoomTypeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.CleaningRoomRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.CleaningRoomDetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.CleaningRoomItemRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.CustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.EmployeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ItemRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ItemStatusRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.JobRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ReservationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ReservationCheckOutRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ReservationRequestItemRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.ReservationRoomRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.RoomRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSet.RoomTypeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.CleaningRoomTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.CleaningRoomDetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.CleaningRoomItemTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.CustomerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.EmployeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.ItemTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.ItemStatusTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.JobTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.ReservationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.ReservationCheckOutTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.ReservationRequestItemTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.ReservationRoomTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.RoomTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.RoomTypeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PC_SB_Module1.PC_SBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PC_SB_Module1.PC_SBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PC_SB_Module1.PC_SBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PC_SB_Module1.PC_SBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PC_SB_Module1.PC_SBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PC_SB_Module1.PC_SBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PC_SB_Module1.PC_SBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PC_SB_Module1.PC_SBDataSetTableAdapters.TableAdapterManager.UpdateAll(PC_SB_Module1.PC_SBDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PC_SB_Module1.PC_SBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
